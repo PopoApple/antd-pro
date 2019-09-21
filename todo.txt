@@ -1,0 +1,11 @@
+---- config.js ----
+plugin -> umi-plugin-react：locale.baseNavigator的作用；navigator.language在哪儿配置及作用；dynamicImport.level的作用；pwa的作用；为什么默认禁止dll,https://github.com/ant-design/ant-design-pro/issues/4665
+hash：作用
+devtool：对比source-map和false时怎样查错
+阅读./defaultSettings.js、./plugin.config.js
+BasicLayout.jsx -> ProLayout：查看如何实现的https://github.com/ant-design/ant-design-pro-layout
+routes -> authority：不生效？
+disableRedirectHoist：作用
+cssLoaderOptions -> getLocalIdent：作用
+--------
+ant.design的自定义图标https://ant.design/components/icon-cn/#%E8%87%AA%E5%AE%9A%E4%B9%25
